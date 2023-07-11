@@ -1,2 +1,2 @@
-# gnome_todo
-todo list extenstion for gnome
+# CLI_todo
+todo list command-line application
